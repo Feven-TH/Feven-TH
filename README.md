@@ -35,6 +35,3 @@ Backend developer & AI/ML enthusiast passionate about building scalable systems 
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feven-TH&show_icons=true&theme=radical)
